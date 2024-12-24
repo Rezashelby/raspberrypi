@@ -12180,3 +12180,21 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2024-12-24_19:48:06] TML Solution Studio: Github Remote Status: origin	https://github.com/Rezashelby/raspberrypi.git (fetch)
 origin	https://<personal access token hidden>@github.com/Rezashelby/raspberrypi.git (push)
+[INFO 2024-12-24_20:00:13] TML Solution Studio Started: DOCKERUSERNAME=<your docker hub account>, GITUSERNAME=Rezashelby, GITREPOURL=https://github.com/Rezashelby/raspberrypi.git, AIRFLOWPORT=9000
+[INFO 2024-12-24_20:00:13] TML Solution Studio: Docker Login Status: "docker login" requires at most 1 argument.
+See 'docker login --help'.
+
+Usage:  docker login [OPTIONS] [SERVER]
+
+Log in to a Docker registry
+[INFO 2024-12-24_20:00:13] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/Rezashelby/raspberrypi.git
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/Rezashelby/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-12-24_20:00:13] TML Solution Studio: Github Remote Status: origin	https://github.com/Rezashelby/raspberrypi.git (fetch)
+origin	https://<personal access token hidden>@github.com/Rezashelby/raspberrypi.git (push)
